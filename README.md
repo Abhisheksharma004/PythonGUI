@@ -1,2 +1,2 @@
 # PythonGUI
--Just Try the GUi i npython
+-Just Try the GUi in python
